@@ -130,5 +130,6 @@ dmypy.json
 
 #rabbit
 rabbitmq/data/*
+rabbitmq/etc/rabbitmq.conf
 
 .idea

@@ -133,3 +133,5 @@ rabbitmq/data/*
 rabbitmq/etc/rabbitmq.conf
 
 .idea
+
+rabbitmq/logs/
